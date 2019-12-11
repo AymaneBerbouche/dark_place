@@ -1,0 +1,130 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Users\\gold-\\Documents\\DarkPlace\\dark-place-engine\\dark-place-game.tests\\dark-place-game.tests.csproj": {}
+  },
+  "projects": {
+    "D:\\Users\\gold-\\Documents\\DarkPlace\\dark-place-engine\\dark-place-game.tests\\dark-place-game.tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Users\\gold-\\Documents\\DarkPlace\\dark-place-engine\\dark-place-game.tests\\dark-place-game.tests.csproj",
+        "projectName": "dark-place-game.tests",
+        "projectPath": "D:\\Users\\gold-\\Documents\\DarkPlace\\dark-place-engine\\dark-place-game.tests\\dark-place-game.tests.csproj",
+        "packagesPath": "C:\\Users\\gold-\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\gold-\\Documents\\DarkPlace\\dark-place-engine\\dark-place-game.tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gold-\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Users\\gold-\\Documents\\DarkPlace\\dark-place-engine\\dark-place-game\\dark-place-game.csproj": {
+                "projectPath": "D:\\Users\\gold-\\Documents\\DarkPlace\\dark-place-engine\\dark-place-game\\dark-place-game.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Users\\gold-\\Documents\\DarkPlace\\dark-place-engine\\dark-place-game\\dark-place-game.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Users\\gold-\\Documents\\DarkPlace\\dark-place-engine\\dark-place-game\\dark-place-game.csproj",
+        "projectName": "dark-place-game",
+        "projectPath": "D:\\Users\\gold-\\Documents\\DarkPlace\\dark-place-engine\\dark-place-game\\dark-place-game.csproj",
+        "packagesPath": "C:\\Users\\gold-\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\gold-\\Documents\\DarkPlace\\dark-place-engine\\dark-place-game\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gold-\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
